@@ -1,0 +1,17 @@
+{
+  "name": "dottcosplay",
+  "version": "1.0.0",
+  "description": "Dottcosplay react version",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cosplay",
+    "react"
+  ],
+  "author": "Emma Hargrave",
+  "license": "ISC"
+}
